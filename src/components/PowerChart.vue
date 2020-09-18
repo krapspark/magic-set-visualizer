@@ -1,7 +1,7 @@
 <template>
     <div>
         <BarChart 
-            :chart-data="creatureCMCs"
+            :chart-data="creaturePowers"
         >
         </BarChart>
     </div>
@@ -16,6 +16,6 @@ export default {
   components: {
       BarChart,
   },
-  computed: mapGetters(['creatureCMCs']),
+  computed: mapGetters(['creaturePowers']),
 }
 </script>

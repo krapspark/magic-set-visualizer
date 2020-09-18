@@ -3,18 +3,24 @@
         <h1>
           Magic Set Visualizer
         </h1>
-        <Chart />
+        <set-select />
+        <cmc-chart />
+        <power-chart />
     </div>
 </template>
 
 <script>
-import Chart from './components/Chart.vue';
+import cmcChart from './components/CmcChart.vue';
+import powerChart from './components/PowerChart.vue';
+import setSelect from './components/SetSelect.vue';
 import store from './store';
 
 export default {
   name: 'App',
   components: {
-    Chart
+    'cmc-chart': cmcChart,
+    'power-chart': powerChart,
+    'set-select': setSelect,
   },
   store,
 }

@@ -6,14 +6,16 @@ import { actions } from './actions';
 import { mutations } from './mutations';
 
 import znr from '../../data/formatted/ZNR.json';
+import m21 from '../../data/formatted/M21.json';
 
 Vue.use(Vuex);
 
 // root state object.
 // each Vuex instance is just a single state tree.
 const state = {
-    charts: [],
+  selectedSet: null,
     sets: {
+      m21,
       znr,
     },
 };

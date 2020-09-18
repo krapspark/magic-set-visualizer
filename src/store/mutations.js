@@ -4,5 +4,5 @@
 // mutations must be synchronous and can be recorded by plugins
 // for debugging purposes.
 export const mutations = {
-    addChart: (state, chart) => state.charts.push(chart),
+    setSelectedSet: (state, set) => state.selectedSet = set,
 };
