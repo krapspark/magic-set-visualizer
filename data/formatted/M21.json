@@ -1,0 +1,4052 @@
+{
+    "data": {
+        "cards": [
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{B}",
+                "name": "Alchemist's Gift",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R",
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{R}{W}",
+                "name": "Alpine Houndmaster",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Alpine Watchdog",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Dog"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Angelic Ascension",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 0,
+                "name": "Animal Sanctuary",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{W}",
+                "name": "Anointed Chorister",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{B}",
+                "name": "Archfiend's Vessel",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{W}{W}",
+                "name": "Aven Gagglemaster",
+                "power": "4",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Bird",
+                    "Warrior"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Azusa, Lost but Seeking",
+                "power": "1",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Monk"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{4}{B}{B}",
+                "name": "Bad Deal",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{W}{W}",
+                "name": "Baneslayer Angel",
+                "power": "5",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Angel"
+                ],
+                "toughness": "5",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{U}{U}",
+                "name": "Barrin, Tolarian Archmage",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{W}{W}",
+                "name": "Basri Ket",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Basri"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{W}{W}",
+                "name": "Basri's Acolyte",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Cat",
+                    "Cleric"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{W}",
+                "name": "Basri's Lieutenant",
+                "power": "3",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Knight"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Basri's Solidarity",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{R}",
+                "name": "Battle-Rattle Shaman",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Goblin",
+                    "Shaman"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{B}",
+                "name": "Blood Glutton",
+                "power": "4",
+                "rarity": "common",
+                "subtypes": [
+                    "Vampire"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "R"
+                ],
+                "convertedManaCost": 0,
+                "name": "Bloodfell Caves",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G",
+                    "W"
+                ],
+                "convertedManaCost": 0,
+                "name": "Blossoming Sands",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Bolt Hound",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Elemental",
+                    "Dog"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{4}{R}{R}",
+                "name": "Bone Pit Brute",
+                "power": "4",
+                "rarity": "common",
+                "subtypes": [
+                    "Cyclops"
+                ],
+                "toughness": "5",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{R}",
+                "name": "Brash Taunter",
+                "power": "1",
+                "rarity": "rare",
+                "subtypes": [
+                    "Goblin"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{G}{G}",
+                "name": "Burlfist Oak",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Treefolk"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Burn Bright",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{B}",
+                "name": "Caged Zombie",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Zombie"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{U}{U}",
+                "name": "Cancel",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{G}",
+                "name": "Canopy Stalker",
+                "power": "4",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Cat"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{U}",
+                "name": "Capture Sphere",
+                "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{B}",
+                "name": "Carrion Grub",
+                "power": "0",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Insect"
+                ],
+                "toughness": "5",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Celestial Enforcer",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{5}{R}",
+                "name": "Chandra's Incinerator",
+                "power": "6",
+                "rarity": "rare",
+                "subtypes": [
+                    "Elemental"
+                ],
+                "toughness": "6",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Chandra's Magmutt",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Elemental",
+                    "Dog"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Chandra's Pyreling",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Elemental",
+                    "Lizard"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{R}{R}",
+                "name": "Chandra, Heart of Fire",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Chandra"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 7,
+                "manaCost": "{7}",
+                "name": "Chromatic Orrery",
+                "rarity": "mythic",
+                "subtypes": [],
+                "types": [
+                    "Artifact"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 5,
+                "manaCost": "{5}",
+                "name": "Chrome Replicator",
+                "power": "4",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Construct"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Artifact",
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{4}{G}{G}",
+                "name": "Colossal Dreadmaw",
+                "power": "6",
+                "rarity": "common",
+                "subtypes": [
+                    "Dinosaur"
+                ],
+                "toughness": "6",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G",
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{G}{W}",
+                "name": "Conclave Mentor",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Centaur",
+                    "Cleric"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Concordia Pegasus",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Pegasus"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{R}{R}",
+                "name": "Conspicuous Snoop",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Goblin",
+                    "Rogue"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Containment Priest",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{R}",
+                "name": "Crash Through",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{B}",
+                "name": "Crypt Lurker",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Horror"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Cultivate",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Daybreak Charger",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Unicorn"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{B}",
+                "name": "Deathbloom Thallid",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Fungus"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{W}",
+                "name": "Defiant Strike",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{B}{B}",
+                "name": "Demonic Embrace",
+                "rarity": "rare",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Destructive Tampering",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{B}{R}",
+                "name": "Dire Fleet Warmonger",
+                "power": "3",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Orc",
+                    "Pirate"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{3}{U}{U}{U}",
+                "name": "Discontinuity",
+                "rarity": "mythic",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "U"
+                ],
+                "convertedManaCost": 0,
+                "name": "Dismal Backwater",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{R}{R}",
+                "name": "Double Vision",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Drowsing Tyrannodon",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Dinosaur"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Dub",
+                "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{B}",
+                "name": "Duress",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{G}{G}",
+                "name": "Elder Gargaroth",
+                "power": "6",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Beast"
+                ],
+                "toughness": "6",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Eliminate",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{U}{U}",
+                "name": "Enthralling Hold",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 5,
+                "manaCost": "{5}",
+                "name": "Epitaph Golem",
+                "power": "3",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Golem"
+                ],
+                "toughness": "5",
+                "types": [
+                    "Artifact",
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R",
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{U}{R}",
+                "name": "Experimental Overload",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 0,
+                "name": "Fabled Passage",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{W}",
+                "name": "Faith's Fetters",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{W}",
+                "name": "Falconer Adept",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Soldier"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Feat of Resistance",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Feline Sovereign",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Cat"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Fetid Imp",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Imp"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Fierce Empath",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Elf"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{3}{R}{R}{R}",
+                "name": "Fiery Emancipation",
+                "rarity": "mythic",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{B}",
+                "name": "Finishing Blow",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 4,
+                "manaCost": "{4}",
+                "name": "Forgotten Sentinel",
+                "power": "4",
+                "rarity": "common",
+                "subtypes": [
+                    "Golem"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Artifact",
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Frantic Inventory",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{U}",
+                "name": "Frost Breath",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Fungal Rebirth",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Furious Rise",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{R}",
+                "name": "Furor of the Bitten",
+                "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Gadrak, the Crown-Scourge",
+                "power": "5",
+                "rarity": "rare",
+                "subtypes": [
+                    "Dragon"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{W}",
+                "name": "Gale Swooper",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Griffin"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{G}",
+                "name": "Garruk's Gorehorn",
+                "power": "7",
+                "rarity": "common",
+                "subtypes": [
+                    "Beast"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{G}{G}",
+                "name": "Garruk's Harbinger",
+                "power": "4",
+                "rarity": "rare",
+                "subtypes": [
+                    "Beast"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Garruk's Uprising",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{G}{G}",
+                "name": "Garruk, Unleashed",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Garruk"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Ghostly Pilferer",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Spirit",
+                    "Rogue"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 7,
+                "manaCost": "{5}{B}{B}",
+                "name": "Gloom Sower",
+                "power": "8",
+                "rarity": "common",
+                "subtypes": [
+                    "Horror"
+                ],
+                "toughness": "6",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{W}{W}",
+                "name": "Glorious Anthem",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{G}{G}",
+                "name": "Gnarled Sage",
+                "power": "4",
+                "rarity": "common",
+                "subtypes": [
+                    "Treefolk",
+                    "Druid"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{R}",
+                "name": "Goblin Arsonist",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Goblin",
+                    "Shaman"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{R}",
+                "name": "Goblin Wizardry",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{4}{B}{B}",
+                "name": "Goremand",
+                "power": "5",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Demon"
+                ],
+                "toughness": "5",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{B}{B}",
+                "name": "Grasp of Darkness",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Griffin Aerie",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{B}{B}",
+                "name": "Grim Tutor",
+                "rarity": "mythic",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{R}",
+                "name": "Havoc Jester",
+                "power": "5",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Devil"
+                ],
+                "toughness": "5",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Heartfire Immolator",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 7,
+                "manaCost": "{5}{R}{R}",
+                "name": "Hellkite Punisher",
+                "power": "6",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Dragon"
+                ],
+                "toughness": "6",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Heroic Intervention",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Hobblefiend",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Devil"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{B}",
+                "name": "Hooded Blightfang",
+                "power": "1",
+                "rarity": "rare",
+                "subtypes": [
+                    "Snake"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{G}",
+                "name": "Hunter's Edge",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Idol of Endurance",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Artifact"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Igneous Cur",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Elemental",
+                    "Dog"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{W}{B}",
+                "name": "Indulging Patrician",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Vampire",
+                    "Noble"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Infernal Scarring",
+                "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Invigorating Surge",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Jeskai Elder",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Monk"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Jolrael, Mwonvuli Recluse",
+                "power": "1",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Druid"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "G"
+                ],
+                "convertedManaCost": 0,
+                "name": "Jungle Hollow",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{B}{B}",
+                "name": "Kaervek, the Spiteful",
+                "power": "3",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Warlock"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Keen Glidemaster",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Soldier"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{R}",
+                "name": "Kinetic Augur",
+                "power": "*",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Shaman"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Kitesail Freebooter",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Pirate"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G",
+                    "R"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{R}{G}",
+                "name": "Leafkin Avenger",
+                "power": "4",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Elemental",
+                    "Druid"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Legion's Judgment",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{U}",
+                "name": "Library Larcenist",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Merfolk",
+                    "Rogue"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{G}",
+                "name": "Life Goes On",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Light of Promise",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{B}",
+                "name": "Liliana's Devotee",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Warlock"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{B}",
+                "name": "Liliana's Standard Bearer",
+                "power": "3",
+                "rarity": "rare",
+                "subtypes": [
+                    "Zombie",
+                    "Knight"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{B}",
+                "name": "Liliana's Steward",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Zombie"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{B}{B}",
+                "name": "Liliana, Waker of the Dead",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Liliana"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Llanowar Visionary",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Elf",
+                    "Druid"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Lofty Denial",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G",
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{G}{U}",
+                "name": "Lorescale Coatl",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Snake"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Makeshift Battalion",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Soldier"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Malefic Scythe",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Equipment"
+                ],
+                "types": [
+                    "Artifact"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{W}",
+                "name": "Mangara, the Diplomat",
+                "power": "2",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Masked Blackguard",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{3}{B}{B}{B}",
+                "name": "Massacre Wurm",
+                "power": "6",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Wurm"
+                ],
+                "toughness": "5",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 2,
+                "manaCost": "{2}",
+                "name": "Mazemind Tome",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Artifact"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 5,
+                "manaCost": "{5}",
+                "name": "Meteorite",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Artifact"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{B}",
+                "name": "Mind Rot",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{U}",
+                "name": "Miscast",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{U}",
+                "name": "Mistral Singer",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Siren"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{B}{B}",
+                "name": "Necromentia",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U",
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{W}{U}",
+                "name": "Niambi, Esteemed Speaker",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{W}{W}",
+                "name": "Nine Lives",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{U}{B}",
+                "name": "Obsessive Stitcher",
+                "power": "0",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Onakke Ogre",
+                "power": "4",
+                "rarity": "common",
+                "subtypes": [
+                    "Ogre",
+                    "Warrior"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{U}",
+                "name": "Opt",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{G}",
+                "name": "Ornery Dilophosaur",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Dinosaur"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Pack Leader",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Dog"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 3,
+                "manaCost": "{3}",
+                "name": "Palladium Myr",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Myr"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Artifact",
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 7,
+                "manaCost": "{4}{B}{B}{B}",
+                "name": "Peer into the Abyss",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{B}{B}",
+                "name": "Pestilent Haze",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{R}",
+                "name": "Pitchburn Devils",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Devil"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{G}",
+                "name": "Portcullis Vine",
+                "power": "0",
+                "rarity": "common",
+                "subtypes": [
+                    "Plant",
+                    "Wall"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Pridemalkin",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Cat"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{X}{G}",
+                "name": "Primal Might",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 2,
+                "manaCost": "{2}",
+                "name": "Prismite",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Golem"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Artifact",
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 7,
+                "manaCost": "{5}{U}{U}",
+                "name": "Pursued Whale",
+                "power": "8",
+                "rarity": "rare",
+                "subtypes": [
+                    "Whale"
+                ],
+                "toughness": "8",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Quirion Dryad",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Dryad"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G",
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{R}{G}",
+                "name": "Radha, Heart of Keld",
+                "power": "3",
+                "rarity": "rare",
+                "subtypes": [
+                    "Elf",
+                    "Warrior"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 0,
+                "name": "Radiant Fountain",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{U}",
+                "name": "Rain of Revelation",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{W}{W}",
+                "name": "Rambunctious Mutt",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Dog"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{G}",
+                "name": "Ranger's Guile",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{5}{U}",
+                "name": "Read the Tides",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Return to Nature",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Revitalize",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{U}{U}",
+                "name": "Rewind",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Riddleform",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{B}",
+                "name": "Rise Again",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{U}{U}",
+                "name": "Roaming Ghostlight",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Spirit"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{U}",
+                "name": "Rookie Mistake",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{U}",
+                "name": "Rousing Read",
+                "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G",
+                    "R"
+                ],
+                "convertedManaCost": 0,
+                "name": "Rugged Highlands",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{G}",
+                "name": "Run Afoul",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{W}{W}",
+                "name": "Runed Halo",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{G}",
+                "name": "Sabertooth Mauler",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Cat"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "G",
+                    "R",
+                    "U",
+                    "W"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{W}{U}{B}{R}{G}",
+                "name": "Sanctum of All",
+                "rarity": "rare",
+                "subtypes": [
+                    "Shrine"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{U}",
+                "name": "Sanctum of Calm Waters",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Shrine"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Sanctum of Fruitful Harvest",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Shrine"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Sanctum of Shattered Heights",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Shrine"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Sanctum of Stone Fangs",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Shrine"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{W}",
+                "name": "Sanctum of Tranquil Light",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Shrine"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{B}",
+                "name": "Sanguine Indulgence",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Scavenging Ooze",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Ooze"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Scorching Dragonfire",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "W"
+                ],
+                "convertedManaCost": 0,
+                "name": "Scoured Barrens",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Seasoned Hallowblade",
+                "power": "3",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{W}",
+                "name": "Secure the Scene",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "See the Truth",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{W}",
+                "name": "Selfless Savior",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Dog"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Setessan Training",
+                "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Shacklegeist",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Spirit"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{U}{U}",
+                "name": "Shipwreck Dowser",
+                "power": "3",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{R}",
+                "name": "Shock",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 1,
+                "manaCost": "{1}",
+                "name": "Short Sword",
+                "rarity": "common",
+                "subtypes": [
+                    "Equipment"
+                ],
+                "types": [
+                    "Artifact"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Siege Striker",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Soldier"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 1,
+                "manaCost": "{1}",
+                "name": "Silent Dart",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Artifact"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{B}",
+                "name": "Silversmote Ghoul",
+                "power": "3",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Zombie",
+                    "Vampire"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{B}",
+                "name": "Skeleton Archer",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Skeleton",
+                    "Archer"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 3,
+                "manaCost": "{3}",
+                "name": "Skyscanner",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Thopter"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Artifact",
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{G}",
+                "name": "Skyway Sniper",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Elf",
+                    "Archer"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Snarespinner",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Spider"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 4,
+                "manaCost": "{4}",
+                "name": "Solemn Simulacrum",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Golem"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Artifact",
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Soul Sear",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 3,
+                "manaCost": "{3}",
+                "name": "Sparkhunter Masticore",
+                "power": "3",
+                "rarity": "rare",
+                "subtypes": [
+                    "Masticore"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Artifact",
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{W}",
+                "name": "Speaker of the Heavens",
+                "power": "1",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Spellgorger Weird",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Weird"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 7,
+                "manaCost": "{5}{U}{U}",
+                "name": "Spined Megalodon",
+                "power": "5",
+                "rarity": "common",
+                "subtypes": [
+                    "Shark"
+                ],
+                "toughness": "7",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Sporeweb Weaver",
+                "power": "1",
+                "rarity": "rare",
+                "subtypes": [
+                    "Spider"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{W}",
+                "name": "Staunch Shieldmate",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Dwarf",
+                    "Soldier"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{U}{U}",
+                "name": "Stormwing Entity",
+                "power": "3",
+                "rarity": "rare",
+                "subtypes": [
+                    "Elemental"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{R}",
+                "name": "Subira, Tulzidi Caravanner",
+                "power": "2",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Shaman"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{4}{U}{U}",
+                "name": "Sublime Epiphany",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Sure Strike",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Swift Response",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R",
+                    "U"
+                ],
+                "convertedManaCost": 0,
+                "name": "Swiftwater Cliffs",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Tavern Swindler",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{U}{U}",
+                "name": "Teferi's Ageless Insight",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{U}",
+                "name": "Teferi's Protege",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{U}",
+                "name": "Teferi's Tutelage",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Enchantment"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{U}{U}",
+                "name": "Teferi, Master of Time",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Teferi"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{U}{U}",
+                "name": "Teferi, Master of Time",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Teferi"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{U}{U}",
+                "name": "Teferi, Master of Time",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Teferi"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{2}{U}{U}",
+                "name": "Teferi, Master of Time",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Teferi"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{W}",
+                "name": "Tempered Veteran",
+                "power": "1",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Knight"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R",
+                    "U"
+                ],
+                "convertedManaCost": 0,
+                "name": "Temple of Epiphany",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "G"
+                ],
+                "convertedManaCost": 0,
+                "name": "Temple of Malady",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G",
+                    "U"
+                ],
+                "convertedManaCost": 0,
+                "name": "Temple of Mystery",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "W"
+                ],
+                "convertedManaCost": 0,
+                "name": "Temple of Silence",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R",
+                    "W"
+                ],
+                "convertedManaCost": 0,
+                "name": "Temple of Triumph",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{R}{R}",
+                "name": "Terror of the Peaks",
+                "power": "5",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Dragon"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{B}",
+                "name": "Thieves' Guild Enforcer",
+                "power": "1",
+                "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G",
+                    "U"
+                ],
+                "convertedManaCost": 0,
+                "name": "Thornwood Falls",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{1}{G}{G}",
+                "name": "Thrashing Brontodon",
+                "power": "3",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Dinosaur"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Thrill of Possibility",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{U}",
+                "name": "Tide Skimmer",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Drake"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Titanic Growth",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{4}{U}{U}",
+                "name": "Tolarian Kraken",
+                "power": "4",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Kraken"
+                ],
+                "toughness": "6",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{U}",
+                "name": "Tome Anima",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Spirit"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 0,
+                "manaCost": "{0}",
+                "name": "Tormod's Crypt",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Artifact"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{G}",
+                "name": "Track Down",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{R}",
+                "name": "Traitorous Greed",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U",
+                    "W"
+                ],
+                "convertedManaCost": 0,
+                "name": "Tranquil Cove",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{R}",
+                "name": "Transmogrify",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{G}",
+                "name": "Trufflesnout",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Boar"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{R}{R}",
+                "name": "Turn to Slag",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{R}",
+                "name": "Turret Ogre",
+                "power": "4",
+                "rarity": "common",
+                "subtypes": [
+                    "Ogre",
+                    "Warrior"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B",
+                    "G"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{3}{B}{G}",
+                "name": "Twinblade Assassins",
+                "power": "5",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Elf",
+                    "Assassin"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [],
+                "convertedManaCost": 8,
+                "manaCost": "{8}",
+                "name": "Ugin, the Spirit Dragon",
+                "rarity": "mythic",
+                "subtypes": [
+                    "Ugin"
+                ],
+                "types": [
+                    "Planeswalker"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{R}",
+                "name": "Unleash Fury",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Unsubstantiate",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 5,
+                "manaCost": "{4}{W}",
+                "name": "Valorous Steed",
+                "power": "3",
+                "rarity": "common",
+                "subtypes": [
+                    "Unicorn"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{B}",
+                "name": "Village Rites",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{B}",
+                "name": "Vito, Thorn of the Dusk Rose",
+                "power": "1",
+                "rarity": "rare",
+                "subtypes": [
+                    "Vampire",
+                    "Cleric"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{U}",
+                "name": "Vodalian Arcanist",
+                "power": "1",
+                "rarity": "common",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{X}{R}{R}",
+                "name": "Volcanic Geyser",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Instant"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R"
+                ],
+                "convertedManaCost": 12,
+                "manaCost": "{10}{R}{R}",
+                "name": "Volcanic Salvo",
+                "rarity": "rare",
+                "subtypes": [],
+                "types": [
+                    "Sorcery"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Vryn Wingmare",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Pegasus"
+                ],
+                "toughness": "1",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 7,
+                "manaCost": "{5}{U}{U}",
+                "name": "Waker of Waves",
+                "power": "7",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Whale"
+                ],
+                "toughness": "7",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{1}{B}",
+                "name": "Walking Corpse",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Zombie"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{U}",
+                "name": "Wall of Runes",
+                "power": "0",
+                "rarity": "common",
+                "subtypes": [
+                    "Wall"
+                ],
+                "toughness": "4",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "W"
+                ],
+                "convertedManaCost": 3,
+                "manaCost": "{2}{W}",
+                "name": "Warded Battlements",
+                "power": "0",
+                "rarity": "common",
+                "subtypes": [
+                    "Wall"
+                ],
+                "toughness": "3",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 6,
+                "manaCost": "{4}{G}{G}",
+                "name": "Warden of the Woods",
+                "power": "5",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Treefolk"
+                ],
+                "toughness": "7",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U",
+                    "W"
+                ],
+                "convertedManaCost": 2,
+                "manaCost": "{W}{U}",
+                "name": "Watcher of the Spheres",
+                "power": "2",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Bird",
+                    "Wizard"
+                ],
+                "toughness": "2",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "G"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{X}{G}",
+                "name": "Wildwood Scourge",
+                "power": "0",
+                "rarity": "uncommon",
+                "subtypes": [
+                    "Hydra"
+                ],
+                "toughness": "0",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "R",
+                    "W"
+                ],
+                "convertedManaCost": 0,
+                "name": "Wind-Scarred Crag",
+                "rarity": "common",
+                "subtypes": [],
+                "types": [
+                    "Land"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "U"
+                ],
+                "convertedManaCost": 4,
+                "manaCost": "{3}{U}",
+                "name": "Wishcoin Crab",
+                "power": "2",
+                "rarity": "common",
+                "subtypes": [
+                    "Crab"
+                ],
+                "toughness": "5",
+                "types": [
+                    "Creature"
+                ]
+            },
+            {
+                "colorIdentity": [
+                    "B"
+                ],
+                "convertedManaCost": 1,
+                "manaCost": "{B}",
+                "name": "Witch's Cauldron",
+                "rarity": "uncommon",
+                "subtypes": [],
+                "types": [
+                    "Artifact"
+                ]
+            }
+        ]
+    }
+}

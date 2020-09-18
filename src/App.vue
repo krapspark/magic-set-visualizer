@@ -1,9 +1,10 @@
 <template>
-  <div id="app">
-
-    <img alt="Vue logo" src="./assets/logo.png">
-    <Chart />
-  </div>
+    <div id="app">
+        <h1>
+          Magic Set Visualizer
+        </h1>
+        <Chart />
+    </div>
 </template>
 
 <script>

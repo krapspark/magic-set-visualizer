@@ -10,6 +10,10 @@
                 "name": "Acquisitions Expert",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -23,6 +27,7 @@
                 "manaCost": "{1}{G}",
                 "name": "Adventure Awaits",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -32,8 +37,9 @@
                     "B"
                 ],
                 "convertedManaCost": 3,
-                "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
+                "name": "Agadeem, the Undercrypt",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -44,8 +50,9 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{X}{B}{B}{B}",
-                "name": "Agadeem's Awakening // Agadeem, the Undercrypt",
+                "name": "Agadeem's Awakening",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -60,6 +67,10 @@
                 "name": "Akiri, Fearless Voyager",
                 "power": "3",
                 "rarity": "rare",
+                "subtypes": [
+                    "Kor",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -74,6 +85,10 @@
                 "name": "Akoum Hellhound",
                 "power": "0",
                 "rarity": "common",
+                "subtypes": [
+                    "Elemental",
+                    "Dog"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -84,8 +99,9 @@
                     "R"
                 ],
                 "convertedManaCost": 6,
-                "name": "Akoum Warrior // Akoum Teeth",
+                "name": "Akoum Teeth",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -96,9 +112,13 @@
                 ],
                 "convertedManaCost": 6,
                 "manaCost": "{5}{R}",
-                "name": "Akoum Warrior // Akoum Teeth",
+                "name": "Akoum Warrior",
                 "power": "4",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Minotaur",
+                    "Warrior"
+                ],
                 "toughness": "5",
                 "types": [
                     "Creature"
@@ -112,6 +132,7 @@
                 "manaCost": "{2}{W}",
                 "name": "Allied Assault",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -125,6 +146,9 @@
                 "name": "Ancient Greenwarden",
                 "power": "5",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Elemental"
+                ],
                 "toughness": "7",
                 "types": [
                     "Creature"
@@ -139,6 +163,10 @@
                 "name": "Angel of Destiny",
                 "power": "2",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Angel",
+                    "Cleric"
+                ],
                 "toughness": "6",
                 "types": [
                     "Creature"
@@ -153,6 +181,10 @@
                 "name": "Angelheart Protector",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -166,6 +198,7 @@
                 "manaCost": "{1}{U}",
                 "name": "Anticognition",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -179,6 +212,9 @@
                 "name": "Archon of Emeria",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Archon"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -193,6 +229,10 @@
                 "name": "Archpriest of Iona",
                 "power": "*",
                 "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -207,6 +247,10 @@
                 "name": "Ardent Electromancer",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -221,6 +265,9 @@
                 "name": "Ashaya, Soul of the Wild",
                 "power": "*",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Elemental"
+                ],
                 "toughness": "*",
                 "types": [
                     "Creature"
@@ -235,6 +282,10 @@
                 "name": "Attended Healer",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Kor",
+                    "Cleric"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -245,8 +296,9 @@
                     "G"
                 ],
                 "convertedManaCost": 3,
-                "name": "Bala Ged Recovery // Bala Ged Sanctuary",
+                "name": "Bala Ged Sanctuary",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -257,8 +309,9 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{2}{G}",
-                "name": "Bala Ged Recovery // Bala Ged Sanctuary",
+                "name": "Bala Ged Recovery",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -268,6 +321,7 @@
                 "convertedManaCost": 0,
                 "name": "Base Camp",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -277,8 +331,9 @@
                     "U"
                 ],
                 "convertedManaCost": 2,
-                "name": "Beyeen Veil // Beyeen Coast",
+                "name": "Beyeen Coast",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -289,8 +344,9 @@
                 ],
                 "convertedManaCost": 2,
                 "manaCost": "{1}{U}",
-                "name": "Beyeen Veil // Beyeen Coast",
+                "name": "Beyeen Veil",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -300,8 +356,9 @@
                     "B"
                 ],
                 "convertedManaCost": 3,
-                "name": "Blackbloom Rogue // Blackbloom Bog",
+                "name": "Blackbloom Bog",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -312,9 +369,13 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{2}{B}",
-                "name": "Blackbloom Rogue // Blackbloom Bog",
+                "name": "Blackbloom Rogue",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -328,6 +389,7 @@
                 "manaCost": "{B}",
                 "name": "Blood Beckoning",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -340,6 +402,7 @@
                 "manaCost": "{3}{B}",
                 "name": "Blood Price",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -352,18 +415,7 @@
                 "manaCost": "{B}",
                 "name": "Bloodchief's Thirst",
                 "rarity": "uncommon",
-                "types": [
-                    "Sorcery"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "B"
-                ],
-                "convertedManaCost": 1,
-                "manaCost": "{B}",
-                "name": "Bloodchief's Thirst",
-                "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -374,8 +426,9 @@
                     "W"
                 ],
                 "convertedManaCost": 0,
-                "name": "Branchloft Pathway // Boulderloft Pathway",
+                "name": "Boulderloft Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -386,8 +439,9 @@
                     "W"
                 ],
                 "convertedManaCost": 0,
-                "name": "Branchloft Pathway // Boulderloft Pathway",
+                "name": "Branchloft Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -398,8 +452,9 @@
                     "W"
                 ],
                 "convertedManaCost": 0,
-                "name": "Brightclimb Pathway // Grimclimb Pathway",
+                "name": "Grimclimb Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -410,8 +465,9 @@
                     "W"
                 ],
                 "convertedManaCost": 0,
-                "name": "Brightclimb Pathway // Grimclimb Pathway",
+                "name": "Brightclimb Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -424,6 +480,7 @@
                 "manaCost": "{2}{G}",
                 "name": "Broken Wings",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -438,6 +495,9 @@
                 "name": "Brushfire Elemental",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Elemental"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -451,6 +511,9 @@
                 "manaCost": "{U}",
                 "name": "Bubble Snare",
                 "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
                 "types": [
                     "Enchantment"
                 ]
@@ -464,6 +527,9 @@
                 "name": "Canopy Baloth",
                 "power": "4",
                 "rarity": "common",
+                "subtypes": [
+                    "Beast"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -478,6 +544,9 @@
                 "name": "Canyon Jerboa",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Mouse"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -492,6 +561,10 @@
                 "name": "Cascade Seer",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -506,6 +579,10 @@
                 "name": "Charix, the Raging Isle",
                 "power": "0",
                 "rarity": "rare",
+                "subtypes": [
+                    "Leviathan",
+                    "Crab"
+                ],
                 "toughness": "17",
                 "types": [
                     "Creature"
@@ -519,6 +596,7 @@
                 "manaCost": "{U}",
                 "name": "Chilling Trap",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -531,6 +609,7 @@
                 "manaCost": "{1}{R}",
                 "name": "Cinderclasm",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -543,6 +622,7 @@
                 "manaCost": "{1}{R}",
                 "name": "Cleansing Wildfire",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -553,8 +633,9 @@
                     "U"
                 ],
                 "convertedManaCost": 0,
-                "name": "Clearwater Pathway // Murkwater Pathway",
+                "name": "Murkwater Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -565,8 +646,9 @@
                     "U"
                 ],
                 "convertedManaCost": 0,
-                "name": "Clearwater Pathway // Murkwater Pathway",
+                "name": "Clearwater Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -580,6 +662,10 @@
                 "name": "Cleric of Chill Depths",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Merfolk",
+                    "Cleric"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -595,6 +681,10 @@
                 "name": "Cleric of Life's Bond",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Vampire",
+                    "Cleric"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -606,6 +696,9 @@
                 "manaCost": "{1}",
                 "name": "Cliffhaven Kitesail",
                 "rarity": "common",
+                "subtypes": [
+                    "Equipment"
+                ],
                 "types": [
                     "Artifact"
                 ]
@@ -619,6 +712,10 @@
                 "name": "Cliffhaven Sell-Sword",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Kor",
+                    "Warrior"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -632,6 +729,7 @@
                 "manaCost": "{U}",
                 "name": "Concerted Defense",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -644,6 +742,7 @@
                 "manaCost": "{1}{U}",
                 "name": "Confounding Conundrum",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Enchantment"
                 ]
@@ -657,6 +756,10 @@
                 "name": "Coralhelm Chronicler",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -670,6 +773,7 @@
                 "manaCost": "{4}{B}",
                 "name": "Coveted Prize",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -680,8 +784,9 @@
                     "R"
                 ],
                 "convertedManaCost": 0,
-                "name": "Cragcrown Pathway // Timbercrown Pathway",
+                "name": "Timbercrown Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -692,8 +797,9 @@
                     "R"
                 ],
                 "convertedManaCost": 0,
-                "name": "Cragcrown Pathway // Timbercrown Pathway",
+                "name": "Cragcrown Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -707,6 +813,9 @@
                 "name": "Cragplate Baloth",
                 "power": "6",
                 "rarity": "rare",
+                "subtypes": [
+                    "Beast"
+                ],
                 "toughness": "6",
                 "types": [
                     "Creature"
@@ -717,6 +826,7 @@
                 "convertedManaCost": 0,
                 "name": "Crawling Barrens",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -730,6 +840,10 @@
                 "name": "Cunning Geysermage",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -744,6 +858,10 @@
                 "name": "Dauntless Survivor",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -757,6 +875,7 @@
                 "manaCost": "{1}{W}",
                 "name": "Dauntless Unity",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -769,6 +888,7 @@
                 "manaCost": "{4}{B}",
                 "name": "Deadly Alliance",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -781,6 +901,7 @@
                 "manaCost": "{1}{U}",
                 "name": "Deliberate",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -794,6 +915,10 @@
                 "name": "Demon's Disciple",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -807,6 +932,7 @@
                 "manaCost": "{1}{W}",
                 "name": "Disenchant",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -820,6 +946,10 @@
                 "name": "Drana's Silencer",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Vampire",
+                    "Rogue"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -834,6 +964,10 @@
                 "name": "Drana, the Last Bloodchief",
                 "power": "4",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Vampire",
+                    "Cleric"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -848,6 +982,10 @@
                 "name": "Dreadwurm",
                 "power": "5",
                 "rarity": "common",
+                "subtypes": [
+                    "Wurm",
+                    "Horror"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -862,6 +1000,10 @@
                 "name": "Emeria Captain",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Angel",
+                    "Warrior"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -872,8 +1014,9 @@
                     "W"
                 ],
                 "convertedManaCost": 7,
-                "name": "Emeria's Call // Emeria, Shattered Skyclave",
+                "name": "Emeria, Shattered Skyclave",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -884,8 +1027,9 @@
                 ],
                 "convertedManaCost": 7,
                 "manaCost": "{4}{W}{W}{W}",
-                "name": "Emeria's Call // Emeria, Shattered Skyclave",
+                "name": "Emeria's Call",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -899,6 +1043,10 @@
                 "name": "Expedition Champion",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -913,6 +1061,10 @@
                 "name": "Expedition Diviner",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -927,6 +1079,10 @@
                 "name": "Expedition Healer",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Kor",
+                    "Cleric"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -941,6 +1097,10 @@
                 "name": "Expedition Skulker",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Vampire",
+                    "Rogue"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -955,6 +1115,10 @@
                 "name": "Farsight Adept",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Kor",
+                    "Wizard"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -969,6 +1133,9 @@
                 "name": "Fearless Fledgling",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Griffin"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -982,6 +1149,7 @@
                 "manaCost": "{1}{B}",
                 "name": "Feed the Swarm",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -994,6 +1162,7 @@
                 "manaCost": "{3}{W}",
                 "name": "Felidar Retreat",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Enchantment"
                 ]
@@ -1006,6 +1175,7 @@
                 "manaCost": "{2}{U}",
                 "name": "Field Research",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -1019,6 +1189,10 @@
                 "name": "Fireblade Charger",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Goblin",
+                    "Warrior"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -1033,53 +1207,13 @@
                 "name": "Fissure Wizard",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Goblin",
+                    "Wizard"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "G"
-                ],
-                "convertedManaCost": 0,
-                "name": "Forest",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "G"
-                ],
-                "convertedManaCost": 0,
-                "name": "Forest",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "G"
-                ],
-                "convertedManaCost": 0,
-                "name": "Forest",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "G"
-                ],
-                "convertedManaCost": 0,
-                "name": "Forest",
-                "rarity": "common",
-                "types": [
-                    "Land"
                 ]
             },
             {
@@ -1088,6 +1222,7 @@
                 "manaCost": "{5}",
                 "name": "Forsaken Monument",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Artifact"
                 ]
@@ -1101,6 +1236,10 @@
                 "name": "Ghastly Gloomhunter",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Zombie",
+                    "Bat"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -1114,6 +1253,7 @@
                 "manaCost": "{2}{U}",
                 "name": "Glacial Grasp",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1123,8 +1263,9 @@
                     "U"
                 ],
                 "convertedManaCost": 3,
-                "name": "Glasspool Mimic // Glasspool Shore",
+                "name": "Glasspool Shore",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1135,9 +1276,13 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{2}{U}",
-                "name": "Glasspool Mimic // Glasspool Shore",
+                "name": "Glasspool Mimic",
                 "power": "0",
                 "rarity": "rare",
+                "subtypes": [
+                    "Shapeshifter",
+                    "Rogue"
+                ],
                 "toughness": "0",
                 "types": [
                     "Creature"
@@ -1152,6 +1297,9 @@
                 "name": "Gnarlid Colony",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Beast"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -1166,6 +1314,10 @@
                 "name": "Goma Fada Vanguard",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -1181,6 +1333,10 @@
                 "name": "Grakmaw, Skyclave Ravager",
                 "power": "0",
                 "rarity": "rare",
+                "subtypes": [
+                    "Hydra",
+                    "Horror"
+                ],
                 "toughness": "0",
                 "types": [
                     "Creature"
@@ -1195,6 +1351,10 @@
                 "name": "Grotag Bug-Catcher",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Goblin",
+                    "Warrior"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -1209,6 +1369,10 @@
                 "name": "Grotag Night-Runner",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Goblin",
+                    "Rogue"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1223,6 +1387,9 @@
                 "name": "Guul Draz Mucklord",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Crocodile"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1237,6 +1404,9 @@
                 "name": "Hagra Constrictor",
                 "power": "0",
                 "rarity": "common",
+                "subtypes": [
+                    "Snake"
+                ],
                 "toughness": "0",
                 "types": [
                     "Creature"
@@ -1247,8 +1417,9 @@
                     "B"
                 ],
                 "convertedManaCost": 4,
-                "name": "Hagra Mauling // Hagra Broodpit",
+                "name": "Hagra Broodpit",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1259,8 +1430,9 @@
                 ],
                 "convertedManaCost": 4,
                 "manaCost": "{2}{B}{B}",
-                "name": "Hagra Mauling // Hagra Broodpit",
+                "name": "Hagra Mauling",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1274,6 +1446,10 @@
                 "name": "Highborn Vampire",
                 "power": "4",
                 "rarity": "common",
+                "subtypes": [
+                    "Vampire",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1287,6 +1463,7 @@
                 "manaCost": "{1}{R}",
                 "name": "Inordinate Rage",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1299,6 +1476,7 @@
                 "manaCost": "{1}{G}",
                 "name": "Inscription of Abundance",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1311,6 +1489,7 @@
                 "manaCost": "{3}{U}",
                 "name": "Inscription of Insight",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -1323,6 +1502,7 @@
                 "manaCost": "{2}{B}",
                 "name": "Inscription of Ruin",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -1335,18 +1515,7 @@
                 "manaCost": "{1}{U}",
                 "name": "Into the Roil",
                 "rarity": "common",
-                "types": [
-                    "Instant"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "U"
-                ],
-                "convertedManaCost": 2,
-                "manaCost": "{1}{U}",
-                "name": "Into the Roil",
-                "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1360,53 +1529,12 @@
                 "name": "Iridescent Hornbeetle",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Insect"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "U"
-                ],
-                "convertedManaCost": 0,
-                "name": "Island",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "U"
-                ],
-                "convertedManaCost": 0,
-                "name": "Island",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "U"
-                ],
-                "convertedManaCost": 0,
-                "name": "Island",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "U"
-                ],
-                "convertedManaCost": 0,
-                "name": "Island",
-                "rarity": "common",
-                "types": [
-                    "Land"
                 ]
             },
             {
@@ -1417,6 +1545,9 @@
                 "manaCost": "{1}{U}{U}",
                 "name": "Jace, Mirror Mage",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Jace"
+                ],
                 "types": [
                     "Planeswalker"
                 ]
@@ -1430,6 +1561,10 @@
                 "name": "Joraga Visionary",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Elf",
+                    "Wizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -1443,6 +1578,7 @@
                 "manaCost": "{4}{W}",
                 "name": "Journey to Oblivion",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Enchantment"
                 ]
@@ -1452,8 +1588,9 @@
                     "U"
                 ],
                 "convertedManaCost": 2,
-                "name": "Jwari Disruption // Jwari Ruins",
+                "name": "Jwari Ruins",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1464,8 +1601,9 @@
                 ],
                 "convertedManaCost": 2,
                 "manaCost": "{1}{U}",
-                "name": "Jwari Disruption // Jwari Ruins",
+                "name": "Jwari Disruption",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1479,6 +1617,10 @@
                 "name": "Kabira Outrider",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1489,8 +1631,9 @@
                     "W"
                 ],
                 "convertedManaCost": 2,
-                "name": "Kabira Takedown // Kabira Plateau",
+                "name": "Kabira Plateau",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1501,8 +1644,9 @@
                 ],
                 "convertedManaCost": 2,
                 "manaCost": "{1}{W}",
-                "name": "Kabira Takedown // Kabira Plateau",
+                "name": "Kabira Takedown",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1516,6 +1660,10 @@
                 "name": "Kargan Intimidator",
                 "power": "3",
                 "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -1531,6 +1679,10 @@
                 "name": "Kargan Warleader",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1546,6 +1698,10 @@
                 "name": "Kaza, Roil Chaser",
                 "power": "1",
                 "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -1556,8 +1712,9 @@
                     "G"
                 ],
                 "convertedManaCost": 3,
-                "name": "Kazandu Mammoth // Kazandu Valley",
+                "name": "Kazandu Valley",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1568,9 +1725,12 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{1}{G}{G}",
-                "name": "Kazandu Mammoth // Kazandu Valley",
+                "name": "Kazandu Mammoth",
                 "power": "3",
                 "rarity": "rare",
+                "subtypes": [
+                    "Elephant"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1585,6 +1745,9 @@
                 "name": "Kazandu Nectarpot",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Insect"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1599,6 +1762,9 @@
                 "name": "Kazandu Stomper",
                 "power": "6",
                 "rarity": "common",
+                "subtypes": [
+                    "Beast"
+                ],
                 "toughness": "5",
                 "types": [
                     "Creature"
@@ -1609,8 +1775,9 @@
                     "R"
                 ],
                 "convertedManaCost": 3,
-                "name": "Kazuul's Fury // Kazuul's Cliffs",
+                "name": "Kazuul's Cliffs",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1621,8 +1788,9 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{2}{R}",
-                "name": "Kazuul's Fury // Kazuul's Cliffs",
+                "name": "Kazuul's Fury",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1632,8 +1800,9 @@
                     "G"
                 ],
                 "convertedManaCost": 3,
-                "name": "Khalni Ambush // Khalni Territory",
+                "name": "Khalni Territory",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1644,8 +1813,9 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{2}{G}",
-                "name": "Khalni Ambush // Khalni Territory",
+                "name": "Khalni Ambush",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1659,6 +1829,10 @@
                 "name": "Kitesail Cleric",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Kor",
+                    "Cleric"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -1673,6 +1847,10 @@
                 "name": "Kor Blademaster",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Kor",
+                    "Warrior"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -1687,6 +1865,10 @@
                 "name": "Kor Celebrant",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Kor",
+                    "Cleric"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -1701,6 +1883,10 @@
                 "name": "Legion Angel",
                 "power": "4",
                 "rarity": "rare",
+                "subtypes": [
+                    "Angel",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1715,6 +1901,9 @@
                 "name": "Leyline Tyrant",
                 "power": "4",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Dragon"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -1730,6 +1919,10 @@
                 "name": "Linvala, Shield of Sea Gate",
                 "power": "3",
                 "rarity": "rare",
+                "subtypes": [
+                    "Angel",
+                    "Wizard"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1743,6 +1936,9 @@
                 "manaCost": "{1}{B}",
                 "name": "Lithoform Blight",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Aura"
+                ],
                 "types": [
                     "Enchantment"
                 ]
@@ -1753,6 +1949,7 @@
                 "manaCost": "{4}",
                 "name": "Lithoform Engine",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Artifact"
                 ]
@@ -1766,6 +1963,9 @@
                 "name": "Living Tempest",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Elemental"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1780,6 +1980,9 @@
                 "name": "Lotus Cobra",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Snake"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -1793,6 +1996,7 @@
                 "manaCost": "{X}{U}{U}{U}",
                 "name": "Lullmage's Domination",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -1807,6 +2011,9 @@
                 "name": "Lullmage's Familiar",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Beast"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -1821,6 +2028,10 @@
                 "name": "Luminarch Aspirant",
                 "power": "1",
                 "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Cleric"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -1834,6 +2045,7 @@
                 "manaCost": "{1}{U}",
                 "name": "Maddening Cacophony",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -1847,6 +2059,10 @@
                 "name": "Magmatic Channeler",
                 "power": "1",
                 "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -1861,6 +2077,9 @@
                 "name": "Makindi Ox",
                 "power": "4",
                 "rarity": "common",
+                "subtypes": [
+                    "Ox"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -1871,8 +2090,9 @@
                     "W"
                 ],
                 "convertedManaCost": 5,
-                "name": "Makindi Stampede // Makindi Mesas",
+                "name": "Makindi Mesas",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1883,8 +2103,9 @@
                 ],
                 "convertedManaCost": 5,
                 "manaCost": "{3}{W}{W}",
-                "name": "Makindi Stampede // Makindi Mesas",
+                "name": "Makindi Stampede",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -1898,6 +2119,10 @@
                 "name": "Malakir Blood-Priest",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Vampire",
+                    "Cleric"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -1908,8 +2133,9 @@
                     "B"
                 ],
                 "convertedManaCost": 1,
-                "name": "Malakir Rebirth // Malakir Mire",
+                "name": "Malakir Mire",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -1920,8 +2146,9 @@
                 ],
                 "convertedManaCost": 1,
                 "manaCost": "{B}",
-                "name": "Malakir Rebirth // Malakir Mire",
+                "name": "Malakir Rebirth",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -1935,6 +2162,10 @@
                 "name": "Marauding Blight-Priest",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Vampire",
+                    "Cleric"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -1949,6 +2180,10 @@
                 "name": "Master of Winds",
                 "power": "1",
                 "rarity": "rare",
+                "subtypes": [
+                    "Sphinx",
+                    "Wizard"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -1962,6 +2197,9 @@
                 "manaCost": "{2}{W}",
                 "name": "Maul of the Skyclaves",
                 "rarity": "rare",
+                "subtypes": [
+                    "Equipment"
+                ],
                 "types": [
                     "Artifact"
                 ]
@@ -1975,6 +2213,10 @@
                 "name": "Merfolk Falconer",
                 "power": "4",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -1989,6 +2231,10 @@
                 "name": "Merfolk Windrobber",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Merfolk",
+                    "Rogue"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -2003,6 +2249,9 @@
                 "name": "Mesa Lynx",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Cat"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -2016,6 +2265,7 @@
                 "manaCost": "{1}{G}",
                 "name": "Might of Murasa",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -2028,6 +2278,9 @@
                 "manaCost": "{B}",
                 "name": "Mind Carver",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Equipment"
+                ],
                 "types": [
                     "Artifact"
                 ]
@@ -2040,6 +2293,7 @@
                 "manaCost": "{2}{B}",
                 "name": "Mind Drain",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2052,6 +2306,7 @@
                 "manaCost": "{2}{R}",
                 "name": "Molten Blast",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -2065,6 +2320,10 @@
                 "name": "Moraug, Fury of Akoum",
                 "power": "6",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Minotaur",
+                    "Warrior"
+                ],
                 "toughness": "6",
                 "types": [
                     "Creature"
@@ -2080,53 +2339,13 @@
                 "name": "Moss-Pit Skeleton",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Plant",
+                    "Skeleton"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "R"
-                ],
-                "convertedManaCost": 0,
-                "name": "Mountain",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "R"
-                ],
-                "convertedManaCost": 0,
-                "name": "Mountain",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "R"
-                ],
-                "convertedManaCost": 0,
-                "name": "Mountain",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "R"
-                ],
-                "convertedManaCost": 0,
-                "name": "Mountain",
-                "rarity": "common",
-                "types": [
-                    "Land"
                 ]
             },
             {
@@ -2138,6 +2357,10 @@
                 "name": "Murasa Brute",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Troll",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2153,6 +2376,9 @@
                 "name": "Murasa Rootgrazer",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Beast"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2167,6 +2393,10 @@
                 "name": "Murasa Sproutling",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Plant",
+                    "Elemental"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2179,6 +2409,9 @@
                 "name": "Myriad Construct",
                 "power": "4",
                 "rarity": "rare",
+                "subtypes": [
+                    "Construct"
+                ],
                 "toughness": "4",
                 "types": [
                     "Artifact",
@@ -2193,6 +2426,9 @@
                 "manaCost": "{1}{W}{W}",
                 "name": "Nahiri's Binding",
                 "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
                 "types": [
                     "Enchantment"
                 ]
@@ -2205,6 +2441,7 @@
                 "manaCost": "{X}{R}{R}",
                 "name": "Nahiri's Lithoforming",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2218,6 +2455,9 @@
                 "manaCost": "{2}{R}{W}",
                 "name": "Nahiri, Heir of the Ancients",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Nahiri"
+                ],
                 "types": [
                     "Planeswalker"
                 ]
@@ -2228,8 +2468,9 @@
                     "W"
                 ],
                 "convertedManaCost": 0,
-                "name": "Needleverge Pathway // Pillarverge Pathway",
+                "name": "Pillarverge Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -2240,32 +2481,9 @@
                     "W"
                 ],
                 "convertedManaCost": 0,
-                "name": "Needleverge Pathway // Pillarverge Pathway",
+                "name": "Needleverge Pathway",
                 "rarity": "rare",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "R",
-                    "W"
-                ],
-                "convertedManaCost": 0,
-                "name": "Needleverge Pathway // Pillarverge Pathway",
-                "rarity": "rare",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "R",
-                    "W"
-                ],
-                "convertedManaCost": 0,
-                "name": "Needleverge Pathway // Pillarverge Pathway",
-                "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -2278,6 +2496,7 @@
                 "manaCost": "{1}{U}",
                 "name": "Negate",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -2291,6 +2510,10 @@
                 "name": "Nighthawk Scavenger",
                 "power": "1+*",
                 "rarity": "rare",
+                "subtypes": [
+                    "Vampire",
+                    "Rogue"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2305,6 +2528,10 @@
                 "name": "Nimana Skitter-Sneak",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -2319,6 +2546,10 @@
                 "name": "Nimana Skydancer",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -2333,6 +2564,10 @@
                 "name": "Nimble Trapfinder",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -2347,6 +2582,9 @@
                 "manaCost": "{2}{B}{G}",
                 "name": "Nissa of Shadowed Boughs",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Nissa"
+                ],
                 "types": [
                     "Planeswalker"
                 ]
@@ -2359,6 +2597,9 @@
                 "manaCost": "{3}{G}",
                 "name": "Nissa's Zendikon",
                 "rarity": "common",
+                "subtypes": [
+                    "Aura"
+                ],
                 "types": [
                     "Enchantment"
                 ]
@@ -2372,6 +2613,10 @@
                 "name": "Nullpriest of Oblivion",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Vampire",
+                    "Cleric"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -2385,6 +2630,7 @@
                 "manaCost": "{1}{B}",
                 "name": "Oblivion's Hunger",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -2401,6 +2647,9 @@
                 "name": "Omnath, Locus of Creation",
                 "power": "4",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Elemental"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -2411,8 +2660,9 @@
                     "W"
                 ],
                 "convertedManaCost": 8,
-                "name": "Ondu Inversion // Ondu Skyruins",
+                "name": "Ondu Skyruins",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -2423,8 +2673,9 @@
                 ],
                 "convertedManaCost": 8,
                 "manaCost": "{6}{W}{W}",
-                "name": "Ondu Inversion // Ondu Skyruins",
+                "name": "Ondu Inversion",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2439,6 +2690,10 @@
                 "name": "Orah, Skyclave Hierophant",
                 "power": "3",
                 "rarity": "rare",
+                "subtypes": [
+                    "Kor",
+                    "Cleric"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2453,6 +2708,9 @@
                 "name": "Oran-Rief Ooze",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Ooze"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -2467,6 +2725,10 @@
                 "name": "Paired Tactician",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -2477,8 +2739,9 @@
                     "B"
                 ],
                 "convertedManaCost": 3,
-                "name": "Pelakka Predation // Pelakka Caverns",
+                "name": "Pelakka Caverns",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -2489,8 +2752,9 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{2}{B}",
-                "name": "Pelakka Predation // Pelakka Caverns",
+                "name": "Pelakka Predation",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2505,53 +2769,12 @@
                 "name": "Phylath, World Sculptor",
                 "power": "5",
                 "rarity": "rare",
+                "subtypes": [
+                    "Elemental"
+                ],
                 "toughness": "5",
                 "types": [
                     "Creature"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "W"
-                ],
-                "convertedManaCost": 0,
-                "name": "Plains",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "W"
-                ],
-                "convertedManaCost": 0,
-                "name": "Plains",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "W"
-                ],
-                "convertedManaCost": 0,
-                "name": "Plains",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "W"
-                ],
-                "convertedManaCost": 0,
-                "name": "Plains",
-                "rarity": "common",
-                "types": [
-                    "Land"
                 ]
             },
             {
@@ -2562,6 +2785,7 @@
                 "manaCost": "{W}",
                 "name": "Practiced Tactics",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -2574,6 +2798,7 @@
                 "manaCost": "{1}{W}",
                 "name": "Pressure Point",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -2587,6 +2812,10 @@
                 "name": "Prowling Felidar",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Cat",
+                    "Beast"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2601,6 +2830,9 @@
                 "name": "Pyroclastic Hellion",
                 "power": "4",
                 "rarity": "common",
+                "subtypes": [
+                    "Hellion"
+                ],
                 "toughness": "5",
                 "types": [
                     "Creature"
@@ -2614,6 +2846,7 @@
                 "manaCost": "{1}{G}",
                 "name": "Rabid Bite",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2627,6 +2860,9 @@
                 "manaCost": "{1}{B}{R}",
                 "name": "Ravager's Mace",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Equipment"
+                ],
                 "types": [
                     "Artifact"
                 ]
@@ -2639,6 +2875,7 @@
                 "manaCost": "{G}",
                 "name": "Reclaim the Wastes",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2649,6 +2886,7 @@
                 "manaCost": "{2}",
                 "name": "Relic Amulet",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Artifact"
                 ]
@@ -2659,6 +2897,9 @@
                 "manaCost": "{2}",
                 "name": "Relic Axe",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Equipment"
+                ],
                 "types": [
                     "Artifact"
                 ]
@@ -2670,6 +2911,9 @@
                 "name": "Relic Golem",
                 "power": "6",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Golem"
+                ],
                 "toughness": "6",
                 "types": [
                     "Artifact",
@@ -2685,6 +2929,10 @@
                 "name": "Relic Robber",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Goblin",
+                    "Rogue"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -2696,6 +2944,7 @@
                 "manaCost": "{3}",
                 "name": "Relic Vial",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Artifact"
                 ]
@@ -2708,6 +2957,7 @@
                 "manaCost": "{W}",
                 "name": "Resolute Strike",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -2721,6 +2971,9 @@
                 "name": "Risen Riptide",
                 "power": "0",
                 "rarity": "common",
+                "subtypes": [
+                    "Elemental"
+                ],
                 "toughness": "5",
                 "types": [
                     "Creature"
@@ -2732,8 +2985,9 @@
                     "U"
                 ],
                 "convertedManaCost": 0,
-                "name": "Riverglide Pathway // Lavaglide Pathway",
+                "name": "Lavaglide Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -2744,8 +2998,9 @@
                     "U"
                 ],
                 "convertedManaCost": 0,
-                "name": "Riverglide Pathway // Lavaglide Pathway",
+                "name": "Riverglide Pathway",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -2759,6 +3014,10 @@
                 "name": "Rockslide Sorcerer",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2772,6 +3031,7 @@
                 "manaCost": "{1}{R}",
                 "name": "Roil Eruption",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2784,6 +3044,7 @@
                 "manaCost": "{2}{G}",
                 "name": "Roiling Regrowth",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -2796,6 +3057,7 @@
                 "manaCost": "{1}{R}",
                 "name": "Roiling Vortex",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Enchantment"
                 ]
@@ -2808,6 +3070,7 @@
                 "manaCost": "{U}",
                 "name": "Roost of Drakes",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Enchantment"
                 ]
@@ -2821,6 +3084,9 @@
                 "name": "Ruin Crab",
                 "power": "0",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Crab"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2834,6 +3100,7 @@
                 "manaCost": "{2}{G}",
                 "name": "Scale the Heights",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2846,6 +3113,9 @@
                 "manaCost": "{1}{R}",
                 "name": "Scavenged Blade",
                 "rarity": "common",
+                "subtypes": [
+                    "Equipment"
+                ],
                 "types": [
                     "Artifact"
                 ]
@@ -2859,6 +3129,10 @@
                 "name": "Scion of the Swarm",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Vampire",
+                    "Cleric"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2873,6 +3147,10 @@
                 "name": "Scorch Rider",
                 "power": "4",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2887,6 +3165,9 @@
                 "name": "Scourge of the Skyclaves",
                 "power": "*",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Demon"
+                ],
                 "toughness": "*",
                 "types": [
                     "Creature"
@@ -2901,6 +3182,9 @@
                 "name": "Scute Swarm",
                 "power": "1",
                 "rarity": "rare",
+                "subtypes": [
+                    "Insect"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -2915,6 +3199,10 @@
                 "name": "Sea Gate Banneret",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Kor",
+                    "Warrior"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -2927,6 +3215,10 @@
                 "name": "Sea Gate Colossus",
                 "power": "7",
                 "rarity": "common",
+                "subtypes": [
+                    "Golem",
+                    "Warrior"
+                ],
                 "toughness": "5",
                 "types": [
                     "Artifact",
@@ -2938,8 +3230,9 @@
                     "U"
                 ],
                 "convertedManaCost": 7,
-                "name": "Sea Gate Restoration // Sea Gate, Reborn",
+                "name": "Sea Gate, Reborn",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -2950,8 +3243,9 @@
                 ],
                 "convertedManaCost": 7,
                 "manaCost": "{4}{U}{U}{U}",
-                "name": "Sea Gate Restoration // Sea Gate, Reborn",
+                "name": "Sea Gate Restoration",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -2965,6 +3259,10 @@
                 "name": "Sea Gate Stormcaller",
                 "power": "2",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -2979,6 +3277,10 @@
                 "name": "Seafloor Stalker",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Merfolk",
+                    "Rogue"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -2989,8 +3291,9 @@
                     "W"
                 ],
                 "convertedManaCost": 2,
-                "name": "Sejiri Shelter // Sejiri Glacier",
+                "name": "Sejiri Glacier",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3001,8 +3304,9 @@
                 ],
                 "convertedManaCost": 2,
                 "manaCost": "{1}{W}",
-                "name": "Sejiri Shelter // Sejiri Glacier",
+                "name": "Sejiri Shelter",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3016,6 +3320,10 @@
                 "name": "Shadow Stinger",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Vampire",
+                    "Rogue"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -3029,6 +3337,7 @@
                 "manaCost": "{3}{B}{B}",
                 "name": "Shadows' Verdict",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3042,6 +3351,10 @@
                 "name": "Shatterskull Charger",
                 "power": "4",
                 "rarity": "rare",
+                "subtypes": [
+                    "Giant",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3056,6 +3369,10 @@
                 "name": "Shatterskull Minotaur",
                 "power": "5",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Minotaur",
+                    "Warrior"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -3066,8 +3383,9 @@
                     "R"
                 ],
                 "convertedManaCost": 2,
-                "name": "Shatterskull Smashing // Shatterskull, the Hammer Pass",
+                "name": "Shatterskull, the Hammer Pass",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3078,8 +3396,9 @@
                 ],
                 "convertedManaCost": 2,
                 "manaCost": "{X}{R}{R}",
-                "name": "Shatterskull Smashing // Shatterskull, the Hammer Pass",
+                "name": "Shatterskull Smashing",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3092,6 +3411,7 @@
                 "manaCost": "{U}",
                 "name": "Shell Shield",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3105,6 +3425,10 @@
                 "name": "Shepherd of Heroes",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Angel",
+                    "Cleric"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -3115,8 +3439,9 @@
                     "U"
                 ],
                 "convertedManaCost": 3,
-                "name": "Silundi Vision // Silundi Isle",
+                "name": "Silundi Isle",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3127,8 +3452,9 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{2}{U}",
-                "name": "Silundi Vision // Silundi Isle",
+                "name": "Silundi Vision",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3141,6 +3467,7 @@
                 "manaCost": "{1}{R}",
                 "name": "Sizzling Barrage",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3154,6 +3481,10 @@
                 "name": "Skyclave Apparition",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Kor",
+                    "Spirit"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -3164,8 +3495,9 @@
                     "W"
                 ],
                 "convertedManaCost": 2,
-                "name": "Skyclave Cleric // Skyclave Basilica",
+                "name": "Skyclave Basilica",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3176,9 +3508,13 @@
                 ],
                 "convertedManaCost": 2,
                 "manaCost": "{1}{W}",
-                "name": "Skyclave Cleric // Skyclave Basilica",
+                "name": "Skyclave Cleric",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Kor",
+                    "Cleric"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3193,6 +3529,9 @@
                 "name": "Skyclave Geopede",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Insect"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -3206,6 +3545,9 @@
                 "manaCost": "{G}",
                 "name": "Skyclave Pick-Axe",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Equipment"
+                ],
                 "types": [
                     "Artifact"
                 ]
@@ -3218,6 +3560,7 @@
                 "manaCost": "{4}{U}",
                 "name": "Skyclave Plunder",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3228,6 +3571,7 @@
                 "manaCost": "{3}",
                 "name": "Skyclave Relic",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Artifact"
                 ]
@@ -3239,6 +3583,9 @@
                 "name": "Skyclave Sentinel",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Gargoyle"
+                ],
                 "toughness": "3",
                 "types": [
                     "Artifact",
@@ -3254,6 +3601,9 @@
                 "name": "Skyclave Shade",
                 "power": "3",
                 "rarity": "rare",
+                "subtypes": [
+                    "Shade"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -3268,6 +3618,10 @@
                 "name": "Skyclave Shadowcat",
                 "power": "3",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Cat",
+                    "Horror"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3282,6 +3636,9 @@
                 "name": "Skyclave Squid",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Squid"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -3295,6 +3652,7 @@
                 "manaCost": "{3}{W}",
                 "name": "Smite the Monstrous",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3308,6 +3666,10 @@
                 "name": "Sneaking Guide",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Goblin",
+                    "Rogue"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -3323,6 +3685,10 @@
                 "name": "Soaring Thought-Thief",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3333,8 +3699,9 @@
                     "R"
                 ],
                 "convertedManaCost": 5,
-                "name": "Song-Mad Treachery // Song-Mad Ruins",
+                "name": "Song-Mad Ruins",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3345,8 +3712,9 @@
                 ],
                 "convertedManaCost": 5,
                 "manaCost": "{3}{R}{R}",
-                "name": "Song-Mad Treachery // Song-Mad Ruins",
+                "name": "Song-Mad Treachery",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3359,6 +3727,7 @@
                 "manaCost": "{2}{B}",
                 "name": "Soul Shatter",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3369,6 +3738,7 @@
                 "manaCost": "{2}",
                 "name": "Spare Supplies",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Artifact"
                 ]
@@ -3378,8 +3748,9 @@
                     "R"
                 ],
                 "convertedManaCost": 1,
-                "name": "Spikefield Hazard // Spikefield Cave",
+                "name": "Spikefield Cave",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3390,8 +3761,9 @@
                 ],
                 "convertedManaCost": 1,
                 "manaCost": "{R}",
-                "name": "Spikefield Hazard // Spikefield Cave",
+                "name": "Spikefield Hazard",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3405,6 +3777,9 @@
                 "name": "Spitfire Lagac",
                 "power": "3",
                 "rarity": "common",
+                "subtypes": [
+                    "Lizard"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -3419,6 +3794,7 @@
                 "manaCost": "{4}{W}{U}",
                 "name": "Spoils of Adventure",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3432,6 +3808,10 @@
                 "name": "Springmantle Cleric",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Elf",
+                    "Cleric"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3446,6 +3826,10 @@
                 "name": "Squad Commander",
                 "power": "3",
                 "rarity": "rare",
+                "subtypes": [
+                    "Kor",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3458,6 +3842,9 @@
                 "name": "Stonework Packbeast",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Beast"
+                ],
                 "toughness": "1",
                 "types": [
                     "Artifact",
@@ -3472,6 +3859,7 @@
                 "manaCost": "{G}",
                 "name": "Strength of Solidarity",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3484,6 +3872,7 @@
                 "manaCost": "{1}{B}",
                 "name": "Subtle Strike",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3497,53 +3886,13 @@
                 "name": "Sure-Footed Infiltrator",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Merfolk",
+                    "Rogue"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "B"
-                ],
-                "convertedManaCost": 0,
-                "name": "Swamp",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "B"
-                ],
-                "convertedManaCost": 0,
-                "name": "Swamp",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "B"
-                ],
-                "convertedManaCost": 0,
-                "name": "Swamp",
-                "rarity": "common",
-                "types": [
-                    "Land"
-                ]
-            },
-            {
-                "colorIdentity": [
-                    "B"
-                ],
-                "convertedManaCost": 0,
-                "name": "Swamp",
-                "rarity": "common",
-                "types": [
-                    "Land"
                 ]
             },
             {
@@ -3555,6 +3904,10 @@
                 "name": "Swarm Shambler",
                 "power": "0",
                 "rarity": "rare",
+                "subtypes": [
+                    "Fungus",
+                    "Beast"
+                ],
                 "toughness": "0",
                 "types": [
                     "Creature"
@@ -3568,6 +3921,7 @@
                 "manaCost": "{4}{R}",
                 "name": "Synchronized Spellcraft",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3581,6 +3935,10 @@
                 "name": "Taborax, Hope's Demise",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Demon",
+                    "Cleric"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -3595,6 +3953,10 @@
                 "name": "Tajuru Blightblade",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Elf",
+                    "Rogue"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -3609,6 +3971,9 @@
                 "name": "Tajuru Paragon",
                 "power": "3",
                 "rarity": "rare",
+                "subtypes": [
+                    "Elf"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -3623,6 +3988,10 @@
                 "name": "Tajuru Snarecaster",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Elf",
+                    "Rogue"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -3633,8 +4002,9 @@
                     "G"
                 ],
                 "convertedManaCost": 2,
-                "name": "Tangled Florahedron // Tangled Vale",
+                "name": "Tangled Vale",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3645,9 +4015,12 @@
                 ],
                 "convertedManaCost": 2,
                 "manaCost": "{1}{G}",
-                "name": "Tangled Florahedron // Tangled Vale",
+                "name": "Tangled Florahedron",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Elemental"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -3662,6 +4035,10 @@
                 "name": "Taunting Arbormage",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Elf",
+                    "Wizard"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3676,6 +4053,9 @@
                 "name": "Tazeem Raptor",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Bird"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -3690,6 +4070,10 @@
                 "name": "Tazeem Roilmage",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -3708,6 +4092,10 @@
                 "name": "Tazri, Beacon of Unity",
                 "power": "4",
                 "rarity": "mythic",
+                "subtypes": [
+                    "Human",
+                    "Warrior"
+                ],
                 "toughness": "6",
                 "types": [
                     "Creature"
@@ -3722,6 +4110,10 @@
                 "name": "Teeterpeak Ambusher",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Goblin",
+                    "Warrior"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3736,6 +4128,9 @@
                 "name": "Territorial Scythecat",
                 "power": "2",
                 "rarity": "common",
+                "subtypes": [
+                    "Cat"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -3750,6 +4145,10 @@
                 "name": "Thieving Skydiver",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Merfolk",
+                    "Rogue"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"
@@ -3760,6 +4159,7 @@
                 "convertedManaCost": 0,
                 "name": "Throne of Makindi",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3772,6 +4172,7 @@
                 "manaCost": "{1}{R}",
                 "name": "Thundering Rebuke",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3785,6 +4186,10 @@
                 "name": "Thundering Sparkmage",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -3798,6 +4203,7 @@
                 "manaCost": "{4}{B}{B}",
                 "name": "Thwart the Grave",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3810,6 +4216,7 @@
                 "manaCost": "{1}{R}",
                 "name": "Tormenting Voice",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3823,6 +4230,9 @@
                 "name": "Tuktuk Rubblefort",
                 "power": "0",
                 "rarity": "common",
+                "subtypes": [
+                    "Wall"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3837,6 +4247,10 @@
                 "name": "Turntimber Ascetic",
                 "power": "5",
                 "rarity": "common",
+                "subtypes": [
+                    "Giant",
+                    "Cleric"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -3847,8 +4261,9 @@
                     "G"
                 ],
                 "convertedManaCost": 7,
-                "name": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+                "name": "Turntimber, Serpentine Wood",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3859,8 +4274,9 @@
                 ],
                 "convertedManaCost": 7,
                 "manaCost": "{4}{G}{G}{G}",
-                "name": "Turntimber Symbiosis // Turntimber, Serpentine Wood",
+                "name": "Turntimber Symbiosis",
                 "rarity": "mythic",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -3875,6 +4291,10 @@
                 "name": "Umara Mystic",
                 "power": "1",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3885,8 +4305,9 @@
                     "U"
                 ],
                 "convertedManaCost": 5,
-                "name": "Umara Wizard // Umara Skyfalls",
+                "name": "Umara Skyfalls",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3897,9 +4318,13 @@
                 ],
                 "convertedManaCost": 5,
                 "manaCost": "{4}{U}",
-                "name": "Umara Wizard // Umara Skyfalls",
+                "name": "Umara Wizard",
                 "power": "4",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Merfolk",
+                    "Wizard"
+                ],
                 "toughness": "3",
                 "types": [
                     "Creature"
@@ -3911,6 +4336,9 @@
                 "manaCost": "{1}",
                 "name": "Utility Knife",
                 "rarity": "common",
+                "subtypes": [
+                    "Equipment"
+                ],
                 "types": [
                     "Artifact"
                 ]
@@ -3920,8 +4348,9 @@
                     "R"
                 ],
                 "convertedManaCost": 3,
-                "name": "Valakut Awakening // Valakut Stoneforge",
+                "name": "Valakut Stoneforge",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3932,8 +4361,9 @@
                 ],
                 "convertedManaCost": 3,
                 "manaCost": "{2}{R}",
-                "name": "Valakut Awakening // Valakut Stoneforge",
+                "name": "Valakut Awakening",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3946,6 +4376,7 @@
                 "manaCost": "{2}{R}",
                 "name": "Valakut Exploration",
                 "rarity": "rare",
+                "subtypes": [],
                 "types": [
                     "Enchantment"
                 ]
@@ -3958,6 +4389,7 @@
                 "manaCost": "{2}{B}",
                 "name": "Vanquish the Weak",
                 "rarity": "common",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3967,8 +4399,9 @@
                     "G"
                 ],
                 "convertedManaCost": 1,
-                "name": "Vastwood Fortification // Vastwood Thicket",
+                "name": "Vastwood Thicket",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -3979,8 +4412,9 @@
                 ],
                 "convertedManaCost": 1,
                 "manaCost": "{G}",
-                "name": "Vastwood Fortification // Vastwood Thicket",
+                "name": "Vastwood Fortification",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Instant"
                 ]
@@ -3993,6 +4427,7 @@
                 "manaCost": "{3}{G}",
                 "name": "Vastwood Surge",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -4007,6 +4442,9 @@
                 "name": "Verazol, the Split Current",
                 "power": "0",
                 "rarity": "rare",
+                "subtypes": [
+                    "Serpent"
+                ],
                 "toughness": "0",
                 "types": [
                     "Creature"
@@ -4021,6 +4459,9 @@
                 "name": "Veteran Adventurer",
                 "power": "5",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human"
+                ],
                 "toughness": "5",
                 "types": [
                     "Creature"
@@ -4035,6 +4476,10 @@
                 "name": "Vine Gecko",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Elemental",
+                    "Lizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -4049,6 +4494,9 @@
                 "name": "Wayward Guide-Beast",
                 "power": "2",
                 "rarity": "rare",
+                "subtypes": [
+                    "Beast"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -4063,6 +4511,10 @@
                 "name": "Windrider Wizard",
                 "power": "2",
                 "rarity": "uncommon",
+                "subtypes": [
+                    "Human",
+                    "Wizard"
+                ],
                 "toughness": "2",
                 "types": [
                     "Creature"
@@ -4078,6 +4530,10 @@
                 "name": "Yasharn, Implacable Earth",
                 "power": "4",
                 "rarity": "rare",
+                "subtypes": [
+                    "Elemental",
+                    "Boar"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -4093,6 +4549,10 @@
                 "name": "Zagras, Thief of Heartbeats",
                 "power": "4",
                 "rarity": "rare",
+                "subtypes": [
+                    "Vampire",
+                    "Rogue"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -4108,6 +4568,10 @@
                 "name": "Zareth San, the Trickster",
                 "power": "4",
                 "rarity": "rare",
+                "subtypes": [
+                    "Merfolk",
+                    "Rogue"
+                ],
                 "toughness": "4",
                 "types": [
                     "Creature"
@@ -4118,8 +4582,9 @@
                     "B"
                 ],
                 "convertedManaCost": 6,
-                "name": "Zof Consumption // Zof Bloodbog",
+                "name": "Zof Bloodbog",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Land"
                 ]
@@ -4130,8 +4595,9 @@
                 ],
                 "convertedManaCost": 6,
                 "manaCost": "{4}{B}{B}",
-                "name": "Zof Consumption // Zof Bloodbog",
+                "name": "Zof Consumption",
                 "rarity": "uncommon",
+                "subtypes": [],
                 "types": [
                     "Sorcery"
                 ]
@@ -4145,6 +4611,10 @@
                 "name": "Zulaport Duelist",
                 "power": "1",
                 "rarity": "common",
+                "subtypes": [
+                    "Human",
+                    "Rogue"
+                ],
                 "toughness": "1",
                 "types": [
                     "Creature"

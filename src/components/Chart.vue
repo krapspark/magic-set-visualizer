@@ -1,19 +1,22 @@
 <template>
     <div>
-        <div class="chart"
-            v-for="card in setData.data.cards"
-            :key="card.name">
-            {{ card.name }}
-        </div>
+        <CmcChart 
+            :cmcCounts="cmcCounts"
+        >
+        </CmcChart>
     </div>
 </template>
 
 <script>
 import { mapGetters } from 'vuex'
+import CmcChart from './CmcChart.vue';
 
 export default {
   name: 'Charts',
-  computed: mapGetters(['setData']),
+  components: {
+      CmcChart,
+  },
+  computed: mapGetters(['cmcCounts']),
 }
 </script>
 

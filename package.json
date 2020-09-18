@@ -9,8 +9,10 @@
     "deploy": "node scripts/gh-pages-deploy.js"
   },
   "dependencies": {
+    "chart.js": "^2.9.3",
     "core-js": "^3.6.5",
     "vue": "^2.6.12",
+    "vue-chartjs": "^3.5.1",
     "vuex": "^3.5.1"
   },
   "devDependencies": {

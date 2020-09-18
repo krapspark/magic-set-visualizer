@@ -11,20 +11,24 @@ try {
 }
 
 // Format Data
-let cards = JSON.parse(data).data.cards;
+let fullJSON = JSON.parse(data);
+let setSize = fullJSON.data.baseSetSize;
 
-cards = cards.filter(card => {
-    return card.layout !== 'token'
-        && !card.promoTypes;
+cards = fullJSON.data.cards.filter(card => {
+    return card.number <= setSize
+        && !card.promoTypes
+        && !(card.supertypes && card.supertypes.indexOf('Basic') >= 0);
 });
 
 cards = cards.map(({
     colorIdentity,
     convertedManaCost,
     manaCost,
+    faceName,
     name,
     power,
     rarity,
+    subtypes,
     toughness,
     types,
 }) => {
@@ -32,9 +36,10 @@ cards = cards.map(({
         colorIdentity,
         convertedManaCost,
         manaCost,
-        name,
+        name: faceName || name,
         power,
         rarity,
+        subtypes,
         toughness,
         types,
     };
